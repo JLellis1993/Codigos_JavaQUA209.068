@@ -758,3 +758,8 @@ java.lang.IllegalArgumentException
 	at org.eclipse.jdt.internal.ui.viewsupport.SelectionListenerWithASTManager$PartListenerGroup.calculateASTandInform(SelectionListenerWithASTManager.java:166)
 	at org.eclipse.jdt.internal.ui.viewsupport.SelectionListenerWithASTManager$PartListenerGroup$1.run(SelectionListenerWithASTManager.java:151)
 	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.core.resources 2 2 2023-08-04 14:12:26.006
+!MESSAGE Save operation warnings.
+!SUBENTRY 1 org.eclipse.core.resources 2 234 2023-08-04 14:12:26.006
+!MESSAGE The project description file (.project) for 'Atividade 2' was missing.  This file contains important information about the project.  A new project description file has been created, but some information about the project may have been lost.
