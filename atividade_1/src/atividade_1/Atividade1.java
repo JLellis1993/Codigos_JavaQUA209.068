@@ -14,6 +14,7 @@ public class Atividade1 {
 
 		boolean logica1=true;
 		boolean logica2=false;
+		
 
 		System.out.println ("Meu nome completo: " + nome + sobrenome);
 		System.out.println ("variavel numero 1 = " + numero1);
@@ -24,3 +25,4 @@ public class Atividade1 {
 	}
 }
 
+ //Inicio da atividade 2
