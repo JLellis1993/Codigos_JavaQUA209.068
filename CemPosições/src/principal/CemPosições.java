@@ -1,0 +1,16 @@
+package principal;
+
+public class CemPosições {
+
+	public static void main(String[] args) {
+		// Faça um programa que mostre os índices de um array de 100 posições;
+		
+		int [] numeros =new int [100];
+		for (int posicao = 0; posicao <100 ; posicao ++) {
+			System.out.println(posicao);
+			}
+		System.out.println(numeros.length);
+
+	} 
+
+}
