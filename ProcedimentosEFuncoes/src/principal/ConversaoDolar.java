@@ -12,17 +12,24 @@ public class ConversaoDolar {
 		System.out.println("Digite o valor real: ");
 		double real = sc.nextDouble();
 		
-		System.out.printf("Convertido para dólar : %.2f", conversao(real));
+		System.out.printf("Convertido para dólar : %.2f", conversaodolar(real));
 		
 	
+		System.out.println("Digite o valor em dolar: ");
+		double dolar = sc.nextDouble();
 		
+		System.out.printf("Convertido para real : %.2f", conversaoreal(dolar));
 		
 		sc.close();
 		
 	
 	}
-	static double conversao (double real) {
+	static double conversaodolar (double real) {
 		return real *4.99;
+	
 	}
+	static double conversaoreal (double dolar) {
+		return dolar /4.99;
 
+}
 }

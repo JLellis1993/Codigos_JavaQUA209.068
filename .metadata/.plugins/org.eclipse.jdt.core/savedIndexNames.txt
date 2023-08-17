@@ -13,8 +13,10 @@ INDEX VERSION 1.131+C:\Users\Aluno Tarde\Documents\github_Qua209.068\Logica_prog
 2407650700.index
 2902062485.index
 1824761397.index
+4011936880.index
 314574674.index
 1319705273.index
+4117086876.index
 465838443.index
 3806395143.index
 1136373344.index
