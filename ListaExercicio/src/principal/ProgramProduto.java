@@ -42,7 +42,7 @@ public class ProgramProduto {
 		produto3.setProduto(leia.next());
 		System.out.println("Digite a quantidade do terceiro  produto");
 		produto3.setQuantidade(leia.nextInt());
-		System.out.println("Digite o preço do terceiro produto");
+		System.out.println("Digite o preço   do terceiro produto");
 		produto3.setPreco(leia.nextDouble());
 		
 		produtos.add(produto3);
